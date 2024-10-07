@@ -3,26 +3,18 @@
   margin-top: 5%;
 }
 
-.p-50 {
-  margin: 50px;
-}
-
 #testui {
   margin-left: 5%;
 }
 
-.text-align-left {
-  text-align: left;
-}
-
-input[type='text'] {
+input[type="text"] {
   width: 100px;
 }
 
-.m-50 {
-  margin: 50px;
-}
-
-.mt-200 {
-  margin-top: 200px;
+code {
+  display: block;
+  margin: 20px 0;
+  background: #f9f9f9;
+  padding: 10px;
+  border-radius: 4px;
 }
